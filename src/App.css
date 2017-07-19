@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+* {
+  font-family: 'Simonetta', cursive;
+}
+
+body {
+    background: #FFFDFD;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.App h2 {
+    font-family: 'Kite One', sans-serif;
+    letter-spacing: .3em;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  background-image: url("./book4.jpg");
+  height: 150px;
+  padding: 20px;
+  color: white;
+  font-size: 30px;
+  text-shadow: 1px 4px 1px rgba(10,10,10,.8);
+}
+
+.App-header h1 {
+ font-family: 'Fresca', sans-serif;
+  font-size: 80px;
+  margin: 0 auto;
+  width: 100%;
+  letter-spacing: .1em;
+}
+
+
+.box {
+  text-decoration: none;
+  margin: 10px;
+ border: 1px 1px solid #fff;
+  padding-right: 50px;
+}
+
+.box:focus {
+  outline-color: rgba(90,1,1,1);
+}
+
+.click {
+  border-radius: 3px;
+  width: 80px;
+  height: 25px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: .1s ease-in-out;
+}
+
+.click:hover {
+  background-color: rgba(143,4,4,1);
+  color: white;
+}
+
+.click:focus {
+  outline: none;
+}
+
+.interactions {
+  display: flex;
+  flex-direction: column;
+}
+
+.table {
+  display: block;
+  width: 200px;
+  padding: 30px;
+  align-items: center;
+  position: relative;
+}
+
+.table h2 {
+  text-shadow: 1px 1px 1px white;
+  font-family: 'Kite One', sans-serif;
+}
+
+.car {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.thumbnail {
+  justify-content: center;
+
+  position: relative;
+  display: block;
+
+
+}
+
+.thumbnail img {
+  width: 100%;
+  display: block;
+  position: relative;
+}

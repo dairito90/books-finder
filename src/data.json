@@ -1,0 +1,437 @@
+{
+"kind": "books#volumes",
+"totalItems": 988,
+"items": [
+{
+"kind": "books#volume",
+"id": "0l6A6TyJDloC",
+"etag": "riBGyX2q+2Y",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/0l6A6TyJDloC",
+"volumeInfo": {
+"title": "Food Allergies and Food Intolerance",
+"subtitle": "The Complete Guide to Their Identification and Treatment",
+"authors": [
+"Jonathan Brostoff",
+"Linda Gamlin"
+],
+"publisher": "Inner Traditions / Bear & Co",
+"publishedDate": "2000",
+"description": "Offers a complete identification and treatment guide for food allergies and food intolerance, and suggests that food sensitivity could be the cause of some chronic, unexplained health problems.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0892818751"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780892818754"
+}
+],
+"readingModes": {
+"text": true,
+"image": true
+},
+"pageCount": 470,
+"printType": "BOOK",
+"categories": [
+"Health & Fitness"
+],
+"averageRating": 3.5,
+"ratingsCount": 2,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.0.2.0.preview.3",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=0l6A6TyJDloC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=0l6A6TyJDloC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=0l6A6TyJDloC&printsec=frontcover&dq=food+allergies&hl=&cd=1&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=0l6A6TyJDloC&dq=food+allergies&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Food_Allergies_and_Food_Intolerance.html?hl=&id=0l6A6TyJDloC"
+},
+"saleInfo": {
+"country": "US",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "US",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Food_Allergies_and_Food_Intolerance-sample-epub.acsm?id=0l6A6TyJDloC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Food_Allergies_and_Food_Intolerance-sample-pdf.acsm?id=0l6A6TyJDloC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=0l6A6TyJDloC&hl=&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Offers a complete identification and treatment guide for food allergies and food intolerance, and suggests that food sensitivity could be the cause of some chronic, unexplained health problems."
+}
+},
+{
+"kind": "books#volume",
+"id": "J4gaKi_73GQC",
+"etag": "ujV42vS0Qv0",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/J4gaKi_73GQC",
+"volumeInfo": {
+"title": "Food Allergies",
+"subtitle": "A Complete Guide for Eating When Your Life Depends on It",
+"authors": [
+"Scott H. Sicherer"
+],
+"publisher": "JHU Press",
+"publishedDate": "2013-03-15",
+"description": "Posing the questions that anyone with food allergies will think to ask—and then some— Food Allergies provides practical, emotional, and scientific guidance on the topics that affect your life. Allergy expert Scott H. Sicherer addresses the full spectrum of food allergies, from mild to life threatening, from single foods to food families, clearing up misconceptions along the way. He explains how exposure to foods can bring about an allergic response, describes the symptoms of food allergy, and illuminates how food allergies develop. He also recommends tests for diagnosing both food allergies and chronic health problems caused by food allergies—such as eczema, hives, and respiratory and gastrointestinal symptoms. Food Allergies thoroughly explains how to prevent exposure to a known allergen at home, at school, in restaurants, and elsewhere and what to do if exposure occurs, including how to handle an anaphylactic emergency. Dr. Sicherer also reviews food reactions that are not allergic (such as lactose intolerance), advises how to get adequate nutrition when you must avoid dietary staples, and discusses whether allergies ever go away (they do—and then sometimes they return). -- Amie Rappoport McKenna, mother of children with severe food allergies",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781421408989"
+},
+{
+"type": "ISBN_10",
+"identifier": "1421408988"
+}
+],
+"readingModes": {
+"text": true,
+"image": true
+},
+"pageCount": 304,
+"printType": "BOOK",
+"categories": [
+"Health & Fitness"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": true,
+"contentVersion": "2.2.2.0.preview.3",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=J4gaKi_73GQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=J4gaKi_73GQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=J4gaKi_73GQC&printsec=frontcover&dq=food+allergies&hl=&cd=2&source=gbs_api",
+"infoLink": "https://play.google.com/store/books/details?id=J4gaKi_73GQC&source=gbs_api",
+"canonicalVolumeLink": "https://market.android.com/details?id=book-J4gaKi_73GQC"
+},
+"saleInfo": {
+"country": "US",
+"saleability": "FOR_SALE_AND_RENTAL",
+"isEbook": true,
+"listPrice": {
+"amount": 15.95,
+"currencyCode": "USD"
+},
+"retailPrice": {
+"amount": 9.99,
+"currencyCode": "USD"
+},
+"buyLink": "https://play.google.com/store/books/details?id=J4gaKi_73GQC&rdid=book-J4gaKi_73GQC&rdot=1&source=gbs_api",
+"offers": [
+{
+"finskyOfferType": 1,
+"listPrice": {
+"amountInMicros": 15950000,
+"currencyCode": "USD"
+},
+"retailPrice": {
+"amountInMicros": 9990000,
+"currencyCode": "USD"
+},
+"giftable": true
+},
+{
+"finskyOfferType": 3,
+"listPrice": {
+"amountInMicros": 9570000,
+"currencyCode": "USD"
+},
+"retailPrice": {
+"amountInMicros": 8610000,
+"currencyCode": "USD"
+},
+"rentalDuration": {
+"unit": "DAY",
+"count": 180
+}
+}
+]
+},
+"accessInfo": {
+"country": "US",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Food_Allergies-sample-epub.acsm?id=J4gaKi_73GQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Food_Allergies-sample-pdf.acsm?id=J4gaKi_73GQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=J4gaKi_73GQC&hl=&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Allergy expert Scott H. Sicherer addresses the full spectrum of food allergies, from mild to life threatening, from single foods to food families, clearing up misconceptions along the way."
+}
+},
+{
+"kind": "books#volume",
+"id": "Q2I9BQAAQBAJ",
+"etag": "ySycsNkM9kY",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/Q2I9BQAAQBAJ",
+"volumeInfo": {
+"title": "Dealing with Food Allergies",
+"subtitle": "A Practical Guide to Detecting Culprit Foods and Eating a Healthy, Enjoyable Diet",
+"authors": [
+"Janice Vickerstaff Joneja"
+],
+"publisher": "Bull Publishing Company",
+"publishedDate": "2003-04-01",
+"description": "Presenting up-to-date information on current diagnostic methods and treatment options, this guide describes the effects of food allergies on the skin, mucous membranes, and respiratory and digestive tracts; discusses treatment by allergists and other healthcare professionals; and empowers readers to manage their food allergies.",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9780923521646"
+},
+{
+"type": "ISBN_10",
+"identifier": "092352164X"
+}
+],
+"readingModes": {
+"text": false,
+"image": true
+},
+"pageCount": 484,
+"printType": "BOOK",
+"categories": [
+"Health & Fitness"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.2.0.0.preview.1",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=Q2I9BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=Q2I9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=Q2I9BQAAQBAJ&printsec=frontcover&dq=food+allergies&hl=&cd=3&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=Q2I9BQAAQBAJ&dq=food+allergies&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Dealing_with_Food_Allergies.html?hl=&id=Q2I9BQAAQBAJ"
+},
+"saleInfo": {
+"country": "US",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "US",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=Q2I9BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Presenting up-to-date information on current diagnostic methods and treatment options, this guide describes the effects of food allergies on the skin, mucous membranes, and respiratory and digestive tracts; discusses treatment by allergists ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "jPZLfXtKjWQC",
+"etag": "idgTKZ1h6tA",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/jPZLfXtKjWQC",
+"volumeInfo": {
+"title": "Hidden Food Allergies",
+"subtitle": "The Essential Guide to Uncovering Hidden Food Allergies and Achieving Permanent Relief",
+"authors": [
+"James Braly",
+"Patrick Holford"
+],
+"publisher": "Basic Health Publications, Inc.",
+"publishedDate": "2006",
+"description": "In this valuable new book, James Braly, a leading medical authority on nutrition, and Patrick Holford, Britain's top nutrition expert, identify the most common allergens, help readers diagnose an allergy, and provide a full action plan for allergy relief.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "1591201950"
+},
+{
+"type": "ISBN_13",
+"identifier": "9781591201953"
+}
+],
+"readingModes": {
+"text": false,
+"image": true
+},
+"pageCount": 150,
+"printType": "BOOK",
+"categories": [
+"Health & Fitness"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": true,
+"contentVersion": "1.0.0.0.preview.1",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=jPZLfXtKjWQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=jPZLfXtKjWQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=jPZLfXtKjWQC&printsec=frontcover&dq=food+allergies&hl=&cd=4&source=gbs_api",
+"infoLink": "https://play.google.com/store/books/details?id=jPZLfXtKjWQC&source=gbs_api",
+"canonicalVolumeLink": "https://market.android.com/details?id=book-jPZLfXtKjWQC"
+},
+"saleInfo": {
+"country": "US",
+"saleability": "FOR_SALE",
+"isEbook": true,
+"listPrice": {
+"amount": 11.96,
+"currencyCode": "USD"
+},
+"retailPrice": {
+"amount": 9.57,
+"currencyCode": "USD"
+},
+"buyLink": "https://play.google.com/store/books/details?id=jPZLfXtKjWQC&rdid=book-jPZLfXtKjWQC&rdot=1&source=gbs_api",
+"offers": [
+{
+"finskyOfferType": 1,
+"listPrice": {
+"amountInMicros": 11960000,
+"currencyCode": "USD"
+},
+"retailPrice": {
+"amountInMicros": 9570000,
+"currencyCode": "USD"
+},
+"giftable": true
+}
+]
+},
+"accessInfo": {
+"country": "US",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Hidden_Food_Allergies-sample-pdf.acsm?id=jPZLfXtKjWQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=jPZLfXtKjWQC&hl=&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "In this valuable new book, James Braly, a leading medical authority on nutrition, and Patrick Holford, Britain&#39;s top nutrition expert, identify the most common allergens, help readers diagnose an allergy, and provide a full action plan for ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "qI9upCt2xp0C",
+"etag": "2e6mD933Zrk",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/qI9upCt2xp0C",
+"volumeInfo": {
+"title": "AARP Allergic Girl",
+"subtitle": "Adventures in Living Well with Food Allergies",
+"authors": [
+"Sloane Miller"
+],
+"publisher": "John Wiley & Sons",
+"publishedDate": "2012-04-19",
+"description": "AARP Digital Editions offer you practical tips, proven solutions, and expert guidance. AARP Allergic Girl is an indispensable guide for living a full life with food allergies--from an Allergic Girl who lives it. Millions of Americans concerned about adverse reactions to food are seeking the advice of medical professionals and receiving a diagnosis of food allergies. Allergic Girl Sloane Miller, a leading authority on food allergies, has been allergic since childhood. She now lives a full, enjoyable life full of dining out, dating, attending work functions, and traveling. With tested strategies and practical solutions to everyday food allergy concerns, Allergic Girl shows how readers can enjoy their lives too. Informed by personal narratives laced with humor and valuable insights, Allergic Girl is a breakthrough lifestyle guide for food-allergic adults, their families, and loved ones. In Allergic Girl, you will discover: How to find the best allergist and get a correct diagnosis How to create positive relationships with family, friends, and food How to build a safe environment wherever you are Real-world scenarios scripted from the author's life as well her work with clients and other leaders in the field Enjoy your food-allergic life to the fullest. Let Allergic Girl show you how.",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781118370285"
+},
+{
+"type": "ISBN_10",
+"identifier": "1118370287"
+}
+],
+"readingModes": {
+"text": true,
+"image": true
+},
+"printType": "BOOK",
+"categories": [
+"Health & Fitness"
+],
+"averageRating": 5,
+"ratingsCount": 1,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=qI9upCt2xp0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=qI9upCt2xp0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=qI9upCt2xp0C&printsec=frontcover&dq=food+allergies&hl=&cd=5&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=qI9upCt2xp0C&dq=food+allergies&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/AARP_Allergic_Girl.html?hl=&id=qI9upCt2xp0C"
+},
+"saleInfo": {
+"country": "US",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "US",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/AARP_Allergic_Girl-sample-epub.acsm?id=qI9upCt2xp0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/AARP_Allergic_Girl-sample-pdf.acsm?id=qI9upCt2xp0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=qI9upCt2xp0C&hl=&printsec=frontcover&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "AARP Digital Editions offer you practical tips, proven solutions, and expert guidance. AARP Allergic Girl is an indispensable guide for living a full life with food allergies--from an Allergic Girl who lives it."
+}
+}
+]
+}

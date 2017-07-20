@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Parser from 'html-react-parser';
 
-const DEFAULT_QUERY = 'cars';
+const DEFAULT_QUERY = 'react';
 const DEFAULT_RESULTS = 20;
 
 const PATH_BASE = 'https://www.googleapis.com/books/v1';
@@ -13,7 +13,7 @@ const PARAM_RESULTS = 'maxResults=';
 
 const Search = ({onChange, onSubmit, children}) =>
   <form onSubmit={onSubmit}>
-    <input type="text" className="box" onChange= {onChange}/>
+    <input type="text"    className="box" onChange= {onChange}/>
     <button className="click" type="submit">
       {children}
     </button>
@@ -68,10 +68,9 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h1>Welcome to Books Finder</h1>
 
         </div>
-        <h2>What book are you looking for?</h2>
+        <p>What book are you looking for?</p>
         <div className="page">
           <div className="interactions">
             <Search

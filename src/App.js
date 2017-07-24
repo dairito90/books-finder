@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-
 import './App.css';
 import Parser from 'html-react-parser';
+import cover from './cover.jpg';
 
 const DEFAULT_QUERY = 'react';
 const DEFAULT_RESULTS = 20;
@@ -85,8 +85,8 @@ class App extends Component {
               <div>
                 <span><h2>{item.volumeInfo.title ? item.volumeInfo.title: 'Not Available'}</h2></span>
                 <a target="_blank" rel="noopener" href={item.volumeInfo.previewLink ? item.volumeInfo.previewLink: ''}><div className="thumbnail">
-                  <img src={ item.volumeInfo.imageLinks  ?  item.volumeInfo.imageLinks.thumbnail: item.volumeInfo.title}/>
-                  <a target="_blank" rel="noopener" className="backside" href={item.volumeInfo.previewLink ? item.volumeInfo.previewLink: ''}>
+                   <img src={item.volumeInfo.imageLinks && item.volumeInfo.imageLinks.thumbnail !== 'http://books.google.com/books/content?id=fOK5wjMIHh0C&printsec=frontcover&img=1&zoom=1&source=gbs_api' ? item.volumeInfo.imageLinks.thumbnail: cover}/>
+                  <a target="_blank" rel="noopener" className="back" href={item.volumeInfo.previewLink ? item.volumeInfo.previewLink: ''}>
                   <span><h6>{item.volumeInfo.subtitle ? item.volumeInfo.subtitle: 'Not Available'}</h6></span>
                   <span><h6>{item.volumeInfo.categories ? item.volumeInfo.categories: 'Not Available'}</h6></span>
                   <span>
